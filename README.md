@@ -7,4 +7,4 @@ Queue
 Stack
 <br><br>
 **Still want to add:** <br>
-Heap
+Heap & Dictionary
